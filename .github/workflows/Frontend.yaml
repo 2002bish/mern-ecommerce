@@ -3,7 +3,7 @@ name: Build and Deploy Frontend
 on:
   push:
     branches:
-      - master
+      - bishal1
       # - develop
 
 jobs:
